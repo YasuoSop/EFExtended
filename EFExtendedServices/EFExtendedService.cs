@@ -9,6 +9,6 @@ using EntityFramework.Extensions;
 namespace EFExtended.Services
 {
     public class EFExtendedService
-    {qweqw
+    {
     }
 }
